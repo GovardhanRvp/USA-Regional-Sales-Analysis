@@ -42,7 +42,7 @@ EDA:
 10. Average Profit Margin by Channel
 11. Correlation Heatmap of Numeric Features
 12. Customer Segmentation: Revenue vs. Profit Margin
-13. 
+ 
 ## Key Insights
 1. Monthly Revenue Cycle:
 Revenue stays stable between ≈$23M–$26.5M across 2014–2017, with no consistent seasonal spikes. Sharpest drop (≈$21.2M) occurs in early 2017, indicating a possible one-time disruption.
